@@ -1,5 +1,5 @@
 # Cheetah-Rabbit-Simulation
-Pathfinding/Graph search exploration. Coursework for year 2 "Algorithms and Data Structures".
+Pathfinding/Graph search exploration. Coursework for year 2 "Algorithms and Data Structures" (in March 2016).
 
 Implemented various data structures and algorithms (including A*) on a grid. 
 
